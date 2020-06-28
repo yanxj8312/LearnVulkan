@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\XSOURCE\vulkanDemo\chapter2\VulkanDemo\VulkanDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\XSOURCE\vulkanDemo\chapter2\VulkanDemo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{541B2F56-E791-3012-AFDF-B18D66825529}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

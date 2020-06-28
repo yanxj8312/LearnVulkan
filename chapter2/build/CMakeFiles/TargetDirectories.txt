@@ -1,0 +1,3 @@
+D:/XSOURCE/vulkanDemo/chapter2/build/CMakeFiles/ALL_BUILD.dir
+D:/XSOURCE/vulkanDemo/chapter2/build/CMakeFiles/ZERO_CHECK.dir
+D:/XSOURCE/vulkanDemo/chapter2/build/VulkanDemo/CMakeFiles/VulkanDemo.dir
